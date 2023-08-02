@@ -3,6 +3,8 @@ description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
 
+url: https://daimom.github.io/web
+
 # debug:
 #   compress: true
 #   dist: false
